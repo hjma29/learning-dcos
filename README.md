@@ -1,7 +1,7 @@
 # Learning Mesosphere DC/OS
 
 ##Official Mesosphere training
-Mesosphere company offers official trainings for DC/OS Administration.
+Mesosphere company offers trainings for DC/OS Administration.
 
 * 2-day onsite 
 * 3-day virtual
@@ -15,6 +15,3 @@ The best video to demo the power of DC/OS is 7-min tutorial done by Mesosphere
 
 
 
-
-fasf**dasf**
-ffadsff;aksdf
