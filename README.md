@@ -1,9 +1,12 @@
 # Learning Mesosphere DC/OS
 
 ##Official Mesosphere training
-Mesosphere company offers 2-day onsite or 3-day virtual training for DC/OS Administration
+Mesosphere company offers official trainings for DC/OS Administration.
 
-https://mesosphere.com/training/
+* 2-day onsite 
+* 3-day virtual
+
+Pricing is $2000 for either option. For locations and time, please see https://mesosphere.com/training/
 
 ##Self-Learning
 The best video to demo the power of DC/OS is 7-min tutorial done by Mesosphere
