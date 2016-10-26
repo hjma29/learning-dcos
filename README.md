@@ -13,4 +13,4 @@ A good video to see how DC/OS looks like is this 7-min demo done by Mesosphere
 
 [![](http://img.youtube.com/vi/0I6qG9RQUnY/0.jpg)](https://www.youtube.com/watch?v=0I6qG9RQUnY)
 
-![](imgs/dcos-install.png?raw=true)
+![](imgs/dcos-install.png)
